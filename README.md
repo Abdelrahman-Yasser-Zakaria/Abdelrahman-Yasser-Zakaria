@@ -7,10 +7,6 @@
   Hi there! I'm Abdelrahman Zakaria, a Computer Engineer passionate about building scalable AI solutions and data-driven systems. I have hands-on experience in Big Data, Machine Learning, and Software Development.
 </p>
 
-<details>
-
-</details>
-
 ![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 <a href="mailto:Mabdolrahman114@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
