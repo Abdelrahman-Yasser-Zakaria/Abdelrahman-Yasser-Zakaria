@@ -55,31 +55,6 @@
 
 ---
 
-### 🚀 Projects
-
--   **IoT Smart Plant Monitoring System (Graduation Project)**
-    -   Developed an AI-powered IoT system using **YOLOv8** for leaf detection and **TensorFlow** for disease classification.
-    -   Features a cloud architecture with **Django, MQTT, AWS S3, and PostgreSQL**, and a **Flutter** mobile app.
-
--   **Movie Reviews App**
-    -   A full-stack app using the TMDb API with a **JavaScript, HTML, CSS** frontend and a **Node.js, Express, MongoDB Atlas** backend.
-    -   Implemented full CRUD operations and a RESTful API.
-
--   **Traffic Downloads Prediction**
-    -   A time-series forecasting system to predict YouTube download traffic using an **ARIMA** model.
-    -   *Tech: Python, Pandas, Statsmodels.*
-
--   **Inventory Management System**
-    -   A Python desktop application with a **Tkinter** GUI and **MySQL** for database integration.
-
----
-
-### 🎓 Certifications
-
--   **Data Analyst in Python** - DataCamp `(05/2025)`
--   **Python Programmer Bootcamp** - 365 Data Science `(04/2023)`
-
----
 <div align="center" >
 <a  href="https://github.com/SP-XD">
 
