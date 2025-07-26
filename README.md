@@ -8,7 +8,7 @@
 </div>
 
 <p>
-  Welcome to my profile! I'm a Computer Engineer passionate about building scalable AI solutions and data-driven systems. I have hands-on experience in Data Science, Big Data, and Web Development.
+  Welcome to my profile! I'm a Computer Engineer passionate about building scalable web applications integrated with AI features. I have hands-on experience in Web Development, Data Science, and Big Data.
 </p>
 
 <hr></hr>
