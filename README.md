@@ -8,7 +8,7 @@
 </div>
 
 <p>
-  Welcome to my profile! I'm a Computer Engineer passionate about building scalable web applications integrated with AI features. I have hands-on experience in Web Development, Data Science, and Big Data.
+  Welcome to my profile! I'm a Backend Developer specialized in designing and scaling robust APIs with seamless AI integration. Expert in building high-performance web services using Django, Django REST Framework (DRF), PostgreSQL, Redis, and Docker, deployed on Railway and AWS. Skilled in integrating AI models into backend architectures to enable intelligent automation and data-driven insights. Adept at optimizing system performance, automating data workflows, and ensuring reliable, secure API communication.
 </p>
 
 <hr></hr>
