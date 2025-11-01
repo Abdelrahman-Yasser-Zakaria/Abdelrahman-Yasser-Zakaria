@@ -43,15 +43,12 @@
 
 ### 💼 Experience
 
--   **Big Data Intern @ Samsung (SIC)** `(07/2024-09/2024)`
-    -   Gained hands-on experience with Big Data fundamentals, ingestion, storage, and processing using **Apache Spark**.
-    -   Worked on Big Data analytics, AI modeling, and data visualization with a focus on security and scalability.
-    -   *Technologies: Hadoop, PySpark, Docker, AWS, Machine Learning frameworks.*
-
--   **Data Analyst Intern @ ASDC** `(11/2023-01/2024)`
-    -   Completed four real-world data analysis projects in healthcare, sports, predictive maintenance, and COVID-19 trends.
-    -   Conducted data cleaning, transformation, and visualization.
-    -   *Technologies: Python (Pandas, Numpy), Matplotlib, Seaborn, Excel.*
+-   **Back End Developer Intern @ Drop Me** `(08/2025 - Present)`
+    -   Implemented and maintained 10+ scalable RESTful and WebSocket APIs using Django and DRF, facilitating real-time communication
+between the users’ mobile app, 2+ Reverse Vending Machines (RVMs), and Admin Dashboard.
+    -   Optimized PostgreSQL queries and implemented caching with Redis, achieving 50% lower API latency and enhancing users' experience.
+    -   Deployed backend systems on Railway, Integrated AWS S3 for media storage, and implemented an automated media cleanup system.
+    -   Conducted peer code reviews and followed Git feature-branch workflows, improving code maintainability and test coverage.​
 
 ---
 
