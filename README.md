@@ -1,6 +1,6 @@
 <div align="center" width="50">
   
-# Hi I'm Abdelrahman Yasser 👋
+# Hi, I'm Abdelrahman Yasser 👋
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=Abdelrahman-Yasser-Zakaria&style=flat&color=orange&label=PROFILE+VIEWS)
 <a href="mailto:abdolrahman114@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -8,7 +8,7 @@
 </div>
 
 <p>
-  Welcome to my profile! I'm a Backend Developer specialized in designing and scaling robust APIs with seamless AI integration. Expert in building high-performance web services using Django, Django REST Framework (DRF), PostgreSQL, Redis, and Docker, deployed on Railway and AWS. Skilled in integrating AI models into backend architectures to enable intelligent automation and data-driven insights. Adept at optimizing system performance, automating data workflows, and ensuring reliable, secure API communication.
+  Welcome to my profile! I'm a Backend Developer specialized in designing and scaling robust APIs with seamless AI integration. Expert in building high-performance web services using Django, Django REST Framework, PostgreSQL, Redis, and Docker, deployed on Railway and AWS. Skilled in integrating AI models into backend architectures to enable intelligent automation and data-driven insights. Adept at optimizing system performance, automating data workflows, and ensuring reliable, secure API communication.
 </p>
 
 <hr></hr>
@@ -41,14 +41,14 @@
 
 ---
 
-### 💼 Experience
+### 💼 Current Experience
 
--   **Back End Developer Intern @ Drop Me** `(08/2025 - Present)`
-    -   Implemented and maintained 10+ scalable RESTful and WebSocket APIs using Django and DRF, facilitating real-time communication
-between the users’ mobile app, 2+ Reverse Vending Machines (RVMs), and Admin Dashboard.
-    -   Optimized PostgreSQL queries and implemented caching with Redis, achieving 50% lower API latency and enhancing users' experience.
-    -   Deployed backend systems on Railway, Integrated AWS S3 for media storage, and implemented an automated media cleanup system.
-    -   Conducted peer code reviews and followed Git feature-branch workflows, improving code maintainability and test coverage.​
+-   **Junior Back End Developer @ Drop Me** `(08/2025 - Present)`
+    -   Implemented and maintained scalable RESTful and WebSocket APIs using Django REST Framework (DRF), facilitating real-time communication between mobile application, 2+ Reverse Vending Machines (RVMs), and admin dashboard.
+    -   Developed a full-featured marketplace module with product listings, pagination, and dynamic filtering, enabling efficient data retrieval and allowing users to redeem their recycling points for product coupons.
+    -   Developed a notification system using Firebase Cloud Messaging (FCM) and the fcm-django library to send push notifications to users and store notification history in the database.
+    -   Optimized admin dashboard API performance via PostgreSQL query tuning and Redis caching, reducing latency by 61% (85ms to 33ms).
+    -   Deployed Docker-containerized backend services on Railway, Integrated AWS S3 for media storage.​
 
 ---
 
