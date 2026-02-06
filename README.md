@@ -8,7 +8,9 @@
 </div>
 
 <p>
-  Welcome to my profile! I'm a Backend Developer specialized in designing and scaling robust APIs with seamless AI integration. Expert in building high-performance web services using Django, Django REST Framework, PostgreSQL, Redis, and Docker, deployed on Railway and AWS. Skilled in integrating AI models into backend architectures to enable intelligent automation and data-driven insights. Adept at optimizing system performance, automating data workflows, and ensuring reliable, secure API communication.
+  Welcome to my profile! I'm a Backend Developer with expertise in designing and scaling robust APIs using Django, Django REST Framework, PostgreSQL, and AWS.
+Proven track record of optimizing database performance, reducing query latency by 61%, and implementing secure B2B validation services.
+Skilled in integrating AI models into backend architectures for intelligent automation.
 </p>
 
 <hr></hr>
@@ -44,11 +46,18 @@
 ### 💼 Current Experience
 
 -   **Junior Back End Developer @ Drop Me** `(08/2025 - Present)`
-    -   Implemented and maintained scalable RESTful and WebSocket APIs using Django REST Framework (DRF), facilitating real-time communication between mobile application, 2+ Reverse Vending Machines (RVMs), and admin dashboard.
-    -   Developed a full-featured marketplace module with product listings, pagination, and dynamic filtering, enabling efficient data retrieval and allowing users to redeem their recycling points for product coupons.
-    -   Developed a notification system using Firebase Cloud Messaging (FCM) and the fcm-django library to send push notifications to users and store notification history in the database.
-    -   Optimized admin dashboard API performance via PostgreSQL query tuning and Redis caching, reducing latency by 61% (85ms to 33ms).
-    -   Deployed Docker-containerized backend services on Railway, Integrated AWS S3 for media storage.​
+    -   Implemented and maintained scalable RESTful and WebSocket APIs using Django REST Framework (DRF), facilitating real-time
+communication between mobile application, 2+ Reverse Vending Machines (RVMs), and admin dashboard.
+    -   Developed a marketplace module with paginated listings and dynamic filtering, implementing cart locking to prevent race conditions,
+and built an atomic checkout API enabling users to redeem recycling points for product coupons.
+    -   Implemented a secure B2B coupon validation service using custom API-key authentication, enabling external partners to verify and
+redeem user-issued discounts while preventing double-spending through strict coupon state management.
+    -   Integrated TomTom Routing Matrix API with GeoDjango to implement an ETA service, providing users with multi-modal travel time
+estimates to recycling machines based on live geospatial data.
+    -   Developed a notification system using Firebase Cloud Messaging (FCM) and fcm-django library to send push notifications to users and
+store notification history in the database.
+    -   Optimized an admin dashboard API performance via PostgreSQL query tuning and database caching, reducing latency by 61%.
+    -   Deployed Docker-containerized backend services on Railway, and Integrated AWS S3 for media storage.​
 
 ---
 
