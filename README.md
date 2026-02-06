@@ -38,7 +38,7 @@ Backend Developer with expertise in designing and scaling robust APIs using **Dj
 
 ### 💼 Current Experience
 
-**Junior Backend Developer | Drop Me** *(08/2025 - Present)*
+**Junior Backend Developer @ Drop Me** *(08/2025 - Present)*
 - Implemented scalable RESTful and WebSocket APIs using **Django** and **DRF**, facilitating real-time communication for mobile apps and RVMs.
 - Developed a marketplace module with **cart locking** and an atomic checkout API for coupon redemption.
 - Built a secure B2B coupon validation service with custom API-key authentication.
