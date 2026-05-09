@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Abdelrahman Yasser 👋
-### Backend Developer
+### Python Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-yasser-44269b244)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdolrahman114@gmail.com)
@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 Professional Summary
-Backend Developer with expertise in designing and scaling robust APIs using **Django**, **Django REST Framework**, **PostgreSQL**, and **AWS**. Proven track record of optimizing database performance, reducing query latency by **61%**, and implementing secure B2B validation services. Skilled in integrating AI models into backend architectures for intelligent automation.
+Results-driven Python Developer with expertise in designing secure, highly concurrent backend architectures and automated solvers. Skilled in integrating Vision models and modern frameworks such as Django, FastAPI, and Node.js to deliver robust services, optimize database performance, and deploy scalable cloud infrastructure.
 
 ---
 
@@ -38,12 +38,11 @@ Backend Developer with expertise in designing and scaling robust APIs using **Dj
 
 ### 💼 Current Experience
 
-**Junior Backend Developer @ Drop Me** *(08/2025 - 02/2026)*
-- Implemented scalable RESTful and WebSocket APIs using **Django** and **DRF**, facilitating real-time communication for mobile apps and RVMs.
-- Developed a marketplace module with **cart locking** and an atomic checkout API for coupon redemption.
-- Built a secure B2B coupon validation service with custom API-key authentication.
-- Integrated **TomTom Routing API** with **GeoDjango** for real-time ETA services.
-- Optimized admin dashboard performance, reducing latency by **61%** via query tuning and caching.​
+**Python Developer @ ABM** *(03/2026 - Current)*
+
+-   Engineered highly concurrent automated solvers for Cloudflare Turnstile and Challenge using Python, Playwright, and FastAPI.
+-   Developed an intelligent reCAPTCHA solving engine by integrating Vision AI models with Playwright.
+-   Deployed scalable solver REST APIs to Hetzner servers, serving as the core backend engine for the  CaptchaAI platform.​
 
 ---
 
